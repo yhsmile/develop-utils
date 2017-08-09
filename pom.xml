@@ -18,7 +18,7 @@
 
   <dependencies>
   
-  <!-- 添加一段注释文字，便于学习 GIT 客户端 SourceTree 工具 20170809-->
+  <!-- 添加一段注释文字，便于学习 GIT 客户端 SourceTree 工具 20170809 002-->
   
   	<!-- 二维码 -->
 	<dependency>
