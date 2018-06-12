@@ -186,7 +186,7 @@ public class AverageCapitalUtils {
 		System.out.println(getInterestCount(principal, yearRate, months));
 		
 		
-		System.out.println(getPerMonthInterestOnly(principal, yearRate, months, 361));
+		System.out.println(getPerMonthInterestOnly(principal, yearRate, months, 360));
 		
 	}
 

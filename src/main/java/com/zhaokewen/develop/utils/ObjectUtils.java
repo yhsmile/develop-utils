@@ -13,7 +13,6 @@ import java.util.Map;
 * Filename: ObjectUtils.java  
 * Description: 对象工具类
 * Copyright:Copyright (c)2016
-* Company:  ZITO 
 * @author:  yang_hui
 * @version: 1.0  
 * @Create:  2016年7月4日  

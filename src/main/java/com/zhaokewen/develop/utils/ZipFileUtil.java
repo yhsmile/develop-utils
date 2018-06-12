@@ -15,7 +15,6 @@ import java.util.zip.ZipOutputStream;
 * Filename: ZipFileUtil.java  
 * Description:文件压缩与解压缩工具类
 * Copyright:Copyright (c)2017
-* Company:  ZITO 
 * @author:  yang_hui
 * @version: 1.0  
 * @Create:  2017年7月14日  
@@ -34,7 +33,7 @@ public class ZipFileUtil {
         FileOutputStream fos = null;  
         ZipOutputStream zos = null;  
           
-        if(sourceFile.exists() == false){  
+        if(!sourceFile.exists()){  
             System.out.println("待压缩的文件目录："+sourceFilePath+"不存在.");  
         }else{  
             try {  
